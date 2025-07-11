@@ -1,6 +1,6 @@
 { @author: Sylvain Maltais (support@gladir.com)
   @created: 2025
-  @website(https://www.gladir.com/7iles)
+  @website(https://www.gladir.com/lights-out-0)
   @abstract(Target: Turbo Pascal 7, Free Pascal 3.2)
   @description: Jeu Lights Out - Puzzle game oó il faut Çteindre toutes les lumiäres}
 
